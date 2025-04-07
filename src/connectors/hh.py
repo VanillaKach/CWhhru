@@ -3,8 +3,15 @@ from typing import List, Dict
 from src.abstract.api import Parser
 from src.models.vacancy import Vacancy
 
+from src.utils.cache import CacheManager
+
 class HeadHunterAPI(Parser):
     """Класс для работы с API HeadHunter."""
+
+    def __init__(self):
+        self._last_params = None
+
+
     BASE_URL = 'https://api.hh.ru/vacancies'
 
     def __init__(self):
@@ -16,8 +23,13 @@ class HeadHunterAPI(Parser):
             'area': 113  # Россия
         }
 
-    def get_vacancies(self, query: str) -> List[Dict]:
+    @api_cache(ttl=1800)
+    def get_vacancies(self, query: str, **kwargs) -> List[Dict]:
         """Получить вакансии по запросу."""
+        current_params = {"query": query, **kwargs}
+        if self._last_params and self._last_params != current_params:
+            self.invalidate_cache()
+        self._last_params = current_params
         self.params['text'] = query
         vacancies = []
 
@@ -40,3 +52,7 @@ class HeadHunterAPI(Parser):
         """Возвращает список объектов Vacancy."""
         raw_vacancies = self._fetch_raw_vacancies(query)
         return Vacancy.cast_to_object_list(raw_vacancies)
+
+    def invalidate_cache(self):
+        """Очистка кеша для этого API."""
+        CacheManager.invalidate_cache("get_vacancies")
