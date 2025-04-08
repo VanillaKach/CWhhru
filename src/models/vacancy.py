@@ -26,10 +26,11 @@ class Vacancy:
     def _validate_salary(self):
         """Проверка структуры зарплаты."""
         if not isinstance(self.salary, dict):
-            raise ValueError("Зарплата должна быть словарём")
-
-        if not all(k in self.salary for k in ["from", "to", "currency"]):
             self.salary = {"from": None, "to": None, "currency": None}
+        else:
+            self.salary.setdefault("from", None)
+            self.salary.setdefault("to", None)
+            self.salary.setdefault("currency", None)
 
     def __gt__(self, other: 'Vacancy') -> bool:
         """Сравнение вакансий по минимальной зарплате."""
@@ -56,4 +57,24 @@ class Vacancy:
                 employer=item.get('client', {}).get('title', ''),
                 published_at=item.get('date_published', 0)
             ))
+        return vacancies
+
+
+    @classmethod
+    def cast_to_object_list(cls, data: List[Dict]) -> List['Vacancy']:
+        """Преобразование списка словарей в список объектов Vacancy."""
+        vacancies = []
+        for item in data:
+            try:
+                vacancies.append(cls(
+                    name=item.get('name', ''),
+                    url=item.get('url', ''),
+                    salary=item.get('salary', {'from': None, 'to': None, 'currency': None}),
+                    description=item.get('description', ''),
+                    employer=item.get('employer', {}).get('name', '') if isinstance(item.get('employer'),
+                                                                                    dict) else item.get('employer', ''),
+                    published_at=item.get('published_at', '')
+                ))
+            except ValueError as e:
+                continue  # Пропускаем вакансии с невалидными данными
         return vacancies

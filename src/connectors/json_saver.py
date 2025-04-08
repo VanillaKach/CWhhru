@@ -1,4 +1,5 @@
 import json
+import logging
 from typing import List, Dict, Optional
 from pathlib import Path
 from src.abstract.saver import Saver
@@ -7,6 +8,11 @@ from src.models.vacancy import Vacancy
 
 class JSONSaver(Saver):
     """Класс для сохранения вакансий в JSON-файл."""
+
+    def _read_file(self) -> List[Dict]:
+        """Чтение данных из файла."""
+        if not self.file_path.exists():
+            return []
 
     def __init__(self, file_path: str = "data/vacancies.json"):
         self.file_path = Path(file_path)
@@ -27,16 +33,23 @@ class JSONSaver(Saver):
 
     def add_vacancy(self, vacancy: Vacancy) -> None:
         """Добавить вакансию в файл."""
-        vacancies = self._read_file()
-        vacancies.append({
-            "name": vacancy.name,
-            "url": vacancy.url,
-            "salary": vacancy.salary,
-            "description": vacancy.description,
-            "employer": vacancy.employer,
-            "published_at": vacancy.published_at
-        })
-        self._write_file(vacancies)
+        try:
+            vacancies = self._read_file()
+            if not isinstance(vacancies, list):  # Защита от неправильного формата
+                vacancies = []
+
+            vacancies.append({
+                "name": vacancy.name,
+                "url": vacancy.url,
+                "salary": vacancy.salary,
+                "description": vacancy.description,
+                "employer": vacancy.employer,
+                "published_at": vacancy.published_at
+            })
+            self._write_file(vacancies)
+        except Exception as e:
+            logging.error(f"Ошибка при добавлении вакансии: {str(e)}")
+            raise
 
     def get_vacancies(self, criteria: Optional[Dict] = None) -> List[Vacancy]:
         """Получить вакансии по критериям."""
