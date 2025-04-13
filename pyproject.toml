@@ -1,31 +1,10 @@
-[project]
-name = "CWhhru"
-version = "0.1.0"
-description = ""
-authors = [
-    {name = "VanillaKach",email = "4d4m5@mail.ru"}
-]
-readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-    "requests (>=2.32.3,<3.0.0)",
-    "pydantic (>=2.10.6,<3.0.0)",
-    "fastapi (>=0.115.11,<0.116.0)",
-    "python-dotenv (>=1.0.1,<2.0.0)"
-]
-
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+cachetools = "^5.3.1"
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.15.0"
-flake8 = "^7.1.2"
-isort = "^6.0.1"
-black = "^25.1.0"
-pytest = "^8.3.5"
-pytest-cov = "^6.0.0"
-
-[tool.mypy]
-mypy_path = "src"
+mypy = "^1.5.1"
+pytest = "^7.4.2"
+flake8 = "^6.1.0"
+black = "^23.9.1"

@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceace44b-c5bb-473f-a77c-eaa121f4cae9" name="Changes" comment="Сырые наработки">
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+    <list default="true" id="ceace44b-c5bb-473f-a77c-eaa121f4cae9" name="Changes" comment="Что-то компилируется, но еще нужны доработки">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vacancies.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/vacancies.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/connectors/hh.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectors/hh.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/connectors/json_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectors/json_saver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/models/vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/vacancy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ustils/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_hh_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_hh_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_json_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_json_saver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_vacancy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,12 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744059703722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Что-то компилируется, но еще нужны доработки">
+      <option name="closed" value="true" />
+      <created>1744134929628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744134929628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начало" />
     <MESSAGE value="Сырые наработки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сырые наработки" />
+    <MESSAGE value="Что-то компилируется, но еще нужны доработки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Что-то компилируется, но еще нужны доработки" />
   </component>
 </project>
