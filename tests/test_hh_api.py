@@ -42,9 +42,10 @@ def test_get_vacancies_failure(
 ) -> None:
     """Тест обработки ошибки при запросе."""
     mock_get.side_effect = Exception('Connection error')
+    # Перед тестом очищаем кеш, чтобы гарантировать свежий запрос
+    CacheManager.invalidate_cache('get_vacancies')
     result = hh_api.get_vacancies('Python')
     assert result == []
-
 
 def test_invalidate_cache(hh_api: HeadHunterAPI) -> None:
     """Тест инвалидации кеша."""

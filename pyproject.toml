@@ -1,5 +1,13 @@
+[tool.poetry]
+name = "hh-parser"
+version = "0.1.0"
+description = "Парсер вакансий с HeadHunter"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "src"}]
+
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8.1,<4.0"
 requests = "^2.31.0"
 cachetools = "^5.3.1"
 
@@ -8,3 +16,8 @@ mypy = "^1.5.1"
 pytest = "^7.4.2"
 flake8 = "^6.1.0"
 black = "^23.9.1"
+pytest-cov = "^4.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

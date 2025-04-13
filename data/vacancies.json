@@ -1769,5 +1769,17 @@
     "description": "",
     "employer": "СБЕР",
     "published_at": "2025-03-19T11:07:00+0300"
+  },
+  {
+    "name": "Разработчик Python Middle+\\Senior",
+    "url": "https://api.hh.ru/vacancies/119161157?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Медиа Ком",
+    "published_at": "2025-04-04T11:47:29+0300"
   }
 ]

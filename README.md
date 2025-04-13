@@ -106,6 +106,43 @@ pytest tests/
 
 Кеширование
 
+============================ test session starts ============================
+platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.5.0 -- /home/ubuvan/Py/CWhhru/.venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/ubuvan/Py/CWhhru
+configfile: pytest.ini
+testpaths: tests
+plugins: cov-4.1.0
+collected 24 items                                                          
+
+tests/test_hh_api.py::test_hh_api_init PASSED                         [  4%]
+tests/test_hh_api.py::test_get_vacancies_success PASSED               [  8%]
+tests/test_hh_api.py::test_get_vacancies_failure PASSED               [ 12%]
+tests/test_hh_api.py::test_invalidate_cache PASSED                    [ 16%]
+tests/test_json_saver.py::test_json_saver_init PASSED                 [ 20%]
+tests/test_json_saver.py::test_add_vacancy PASSED                     [ 25%]
+tests/test_json_saver.py::test_add_duplicate_vacancy PASSED           [ 29%]
+tests/test_json_saver.py::test_get_vacancies PASSED                   [ 33%]
+tests/test_json_saver.py::test_delete_vacancy PASSED                  [ 37%]
+tests/test_json_saver.py::test_save_and_load_filtered_vacancies PASSED [ 41%]
+tests/test_main.py::test_filter_vacancies PASSED                      [ 45%]
+tests/test_main.py::test_get_vacancies_by_salary PASSED               [ 50%]
+tests/test_main.py::test_sort_vacancies PASSED                        [ 54%]
+tests/test_main.py::test_user_interaction PASSED                      [ 58%]
+tests/test_utils.py::test_cache_manager_singleton PASSED              [ 62%]
+tests/test_utils.py::test_cache_manager_get_cache PASSED              [ 66%]
+tests/test_utils.py::test_cache_manager_invalidate_cache PASSED       [ 70%]
+tests/test_utils.py::test_api_cache_decorator PASSED                  [ 75%]
+tests/test_utils.py::test_generate_key PASSED                         [ 79%]
+tests/test_vacancy.py::test_vacancy_creation PASSED                   [ 83%]
+tests/test_vacancy.py::test_vacancy_with_invalid_url PASSED           [ 87%]
+tests/test_vacancy.py::test_vacancy_with_partial_salary PASSED        [ 91%]
+tests/test_vacancy.py::test_vacancy_comparison PASSED                 [ 95%]
+tests/test_vacancy.py::test_cast_to_object_list PASSED                [100%]
+
+---------- coverage: platform linux, python 3.12.3-final-0 -----------
+
+
 📄 Логирование
 Приложение ведет логи в файл app.log с информацией:
 
