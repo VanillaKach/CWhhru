@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from typing import Optional, Dict, List
+from typing import Optional, Dict, List, Any
 import re
 
 
@@ -8,22 +8,22 @@ class Vacancy:
     """Класс для представления вакансии с валидацией данных."""
     name: str
     url: str
-    salary: Dict[str, Optional[int]]  # {"from": 100, "to": 200, "currency": "RUR"}
+    salary: Dict[str, Optional[int]]
     description: str
     employer: str
     published_at: str  # Дата в формате "2024-02-20T14:19:36+0300"
 
-    def __post_init__(self):
+    def __post_init__(self) -> None:
         """Валидация данных после инициализации."""
         self._validate_url()
         self._validate_salary()
 
-    def _validate_url(self):
+    def _validate_url(self) -> None:
         """Проверка корректности URL."""
         if not re.match(r'^https?://\S+', self.url):
             raise ValueError("Некорректный URL вакансии")
 
-    def _validate_salary(self):
+    def _validate_salary(self) -> None:
         """Проверка структуры зарплаты."""
         if not isinstance(self.salary, dict):
             self.salary = {"from": None, "to": None, "currency": None}
@@ -34,14 +34,18 @@ class Vacancy:
 
     def __gt__(self, other: 'Vacancy') -> bool:
         """Сравнение вакансий по минимальной зарплате."""
-        return (self.salary.get('from') or 0) > (other.salary.get('from') or 0)
+        self_from = self.salary.get('from') or 0
+        other_from = other.salary.get('from') or 0
+        return self_from > other_from
 
     def __lt__(self, other: 'Vacancy') -> bool:
         """Сравнение вакансий по максимальной зарплате."""
-        return (self.salary.get('to') or 0) < (other.salary.get('to') or 0)
+        self_to = self.salary.get('to') or 0
+        other_to = other.salary.get('to') or 0
+        return self_to < other_to
 
     @staticmethod
-    def cast_from_sj(data: List[Dict]) -> List['Vacancy']:
+    def cast_from_sj(data: List[Dict[str, Any]]) -> List['Vacancy']:
         """Преобразование данных SuperJob в список Vacancy."""
         vacancies = []
         for item in data:
@@ -55,7 +59,7 @@ class Vacancy:
                 },
                 description=item.get('candidat', ''),
                 employer=item.get('client', {}).get('title', ''),
-                published_at=item.get('date_published', 0)
+                published_at=str(item.get('date_published', 0))
             ))
         return vacancies
 

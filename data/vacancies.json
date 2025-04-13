@@ -1,1 +1,1773 @@
-{"items":[{"id":"93353083","premium":false,"name":"Тестировщик комфорта квартир","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"26","name":"Воронеж","url":"https://api.hh.ru/areas/26"},"salary":{"from":350000,"to":450000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-16T14:58:28+0300","created_at":"2024-02-16T14:58:28+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93353083","branding":{"type":"CONSTRUCTOR","tariff":"BASIC"},"show_logo_in_search":true,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93353083?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93353083","relations":[],"employer":{"id":"3499705","name":"Специализированный застройщик BM GROUP","url":"https://api.hh.ru/employers/3499705","alternate_url":"https://hh.ru/employer/3499705","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1214854.png","240":"https://hhcdn.ru/employer-logo/6479866.png","90":"https://hhcdn.ru/employer-logo/6479865.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3499705","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Занимать активную жизненную позицию, уметь активно танцевать и громко петь. Обладать навыками коммуникации, чтобы налаживать добрососедские отношения. Обладать системным мышлением...","responsibility":"Оценивать вид из окна: встречать рассветы на кухне, и провожать алые закаты в спальне. Оценивать инфраструктуру района: ежедневно ходить на..."},"contacts":null,"schedule":{"id":"flexible","name":"Гибкий график"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"107","name":"Руководитель проектов"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223756","premium":false,"name":"Удаленный диспетчер чатов (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:37:04+0300","created_at":"2024-01-25T17:37:04+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223756","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223756?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223756","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223870","premium":false,"name":"Удаленный специалист службы поддержки (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:39:01+0300","created_at":"2024-01-25T17:39:01+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223870","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223870?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223870","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92752367","premium":false,"name":"Менеджер по продажам недвижимости","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":500000,"to":1000000,"currency":"KZT","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-06T11:30:02+0300","created_at":"2024-02-06T11:30:02+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92752367","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92752367?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92752367","relations":[],"employer":{"id":"1418491","name":"Витрина Недвижимости","url":"https://api.hh.ru/employers/1418491","alternate_url":"https://hh.ru/employer/1418491","logo_urls":{"240":"https://hhcdn.ru/employer-logo/2935217.jpeg","90":"https://hhcdn.ru/employer-logo/2935216.jpeg","original":"https://hhcdn.ru/employer-logo-original/623516.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1418491","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Отличные коммуникативные навыки, способность найти подход к каждому клиенту. Навыки проведения деловых переговоров. Наличие амбициозных целей и успешный опыт их...","responsibility":"Анализ рынка и объектов недвижимости. Предварительная оценка недвижимости. Подбор объектов недвижимости в интересах клиентов. Консультирование клиентов по купле-продаже объектов..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"6","name":"Агент по недвижимости"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223673","premium":false,"name":"Менеджер чатов, удалённо (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:34:32+0300","created_at":"2024-01-25T17:34:32+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223673","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223673?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223673","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93209001","premium":false,"name":"Бортпроводник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":null,"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-14T12:32:06+0300","created_at":"2024-02-14T12:32:06+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93209001","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93209001?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93209001","relations":[],"employer":{"id":"4621904","name":"«MY FREIGHTER» LLC","url":"https://api.hh.ru/employers/4621904","alternate_url":"https://hh.ru/employer/4621904","logo_urls":{"90":"https://hhcdn.ru/employer-logo/3387665.png","240":"https://hhcdn.ru/employer-logo/3387666.png","original":"https://hhcdn.ru/employer-logo-original/736672.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=4621904","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Образование: среднее полное (11 классов), среднее специальное, высшее. Обязательное владение узбекским, русским и английским языками. Готовность работать согласно графику полетов. ","responsibility":"Обеспечение безопасности на борту. Встреча и размещение пассажиров на борту. Инструктаж перед взлетом. Организация питания пассажиров во время полета. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"159","name":"Бортпроводник"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92195003","premium":false,"name":"Наборщик текста/верстальщик","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1002","name":"Минск","url":"https://api.hh.ru/areas/1002"},"salary":{"from":800,"to":null,"currency":"BYR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T11:58:58+0300","created_at":"2024-01-25T11:58:58+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92195003","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92195003?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92195003","relations":[],"employer":{"id":"3814315","name":"ПроТекст","url":"https://api.hh.ru/employers/3814315","alternate_url":"https://hh.ru/employer/3814315","logo_urls":{"240":"https://hhcdn.ru/employer-logo/3116885.jpeg","90":"https://hhcdn.ru/employer-logo/3116884.jpeg","original":"https://hhcdn.ru/employer-logo-original/668938.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3814315","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"уверенное владение ПЭВМ (программы OCR - FineReader и аналоги, глубокое знание функций MS Word - Вставка, Макет, Конструктор таблиц). - возможность и готовность...","responsibility":"выполнение распознания документов в формате ,pdf, .jpg, .png на русском / английском языке, макетирование и форматирование в MS Word. - "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[{"id":"from_four_to_six_hours_in_a_day","name":"Можно работать сменами по 4–6 часов в день"}],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"84","name":"Оператор ПК, оператор базы данных"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"part","name":"Частичная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93166058","premium":false,"name":"Менеджер по продажам (МЕРКАТОР)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"88","name":"Казань","url":"https://api.hh.ru/areas/88"},"salary":{"from":160000,"to":null,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Казань","street":"Приволжский район, жилой массив Отары, Дорожная улица","building":"1к10","lat":55.724135,"lng":49.098078,"description":null,"raw":"Казань, Приволжский район, жилой массив Отары, Дорожная улица, 1к10","metro":null,"metro_stations":[],"id":"15161689"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T19:21:57+0300","created_at":"2024-02-13T19:21:57+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93166058","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93166058?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93166058","relations":[],"employer":{"id":"1060821","name":"Рост Развитие Решение","url":"https://api.hh.ru/employers/1060821","alternate_url":"https://hh.ru/employer/1060821","logo_urls":{"90":"https://hhcdn.ru/employer-logo/874868.jpeg","240":"https://hhcdn.ru/employer-logo/874869.jpeg","original":"https://hhcdn.ru/employer-logo-original/85446.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1060821","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт в продажах. Опыт работы с клиентами. Умение проводить переговоры. Мобильность.","responsibility":"Расширение клиентской базы. Проведение презентаций и переговоров. Заключение договоров. Отчетность в установленной форме."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"91178034","premium":false,"name":"Оператор call-центра","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":3500000,"to":20000000,"currency":"UZS","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T10:10:00+0300","created_at":"2024-01-25T10:10:00+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=91178034","insider_interview":null,"url":"https://api.hh.ru/vacancies/91178034?host=hh.ru","alternate_url":"https://hh.ru/vacancy/91178034","relations":[],"employer":{"id":"9522635","name":"IN-FIN-STROY INVEST","url":"https://api.hh.ru/employers/9522635","alternate_url":"https://hh.ru/employer/9522635","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9522635","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Пожалуйста ознакомьтесь внимательно. Грамотная речь. Знание узбекского и русского языков. Отличное знание ПК. Коммуникабельность. Эмоциональная устойчивость. Вежливость, грамотность, любознательность, ответственность...","responsibility":"Прием и обработка входящих звонков и исходящих звонков. Консультирование клиентов по телефону. Предоставление клиентам информации о компании. Осуществление исходящих информационных..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"83","name":"Оператор call-центра, специалист контактного центра"}],"accept_incomplete_resumes":true,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92818620","premium":false,"name":"Менеджер по работе с клиентами","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":418500,"to":1000000,"currency":"KZT","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Астана","street":"улица Анет баба","building":"5","lat":51.133893,"lng":71.382854,"description":null,"raw":"Астана, улица Анет баба, 5","metro":null,"metro_stations":[],"id":"14393855"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-07T11:34:26+0300","created_at":"2024-02-07T11:34:26+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92818620","insider_interview":null,"url":"https://api.hh.ru/vacancies/92818620?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92818620","relations":[],"employer":{"id":"10013830","name":"Агентство Недвижимости Абажур","url":"https://api.hh.ru/employers/10013830","alternate_url":"https://hh.ru/employer/10013830","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=10013830","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Не важно есть опыт у тебя или нет, я могу точно сказать, что ты сможешь зарабатывать в этой сфере!!! ","responsibility":null},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93119114","premium":false,"name":"Стажер","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":2000000,"to":2000000,"currency":"UZS","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Ташкент","street":"улица Мукими","building":"166","lat":41.295692,"lng":69.218247,"description":null,"raw":"Ташкент, улица Мукими, 166","metro":null,"metro_stations":[],"id":"5906580"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T08:39:43+0300","created_at":"2024-02-13T08:39:43+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93119114","insider_interview":null,"url":"https://api.hh.ru/vacancies/93119114?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93119114","relations":[],"employer":{"id":"3927191","name":"Научно информационный центр новых технологий при ГНК РУз","url":"https://api.hh.ru/employers/3927191","alternate_url":"https://hh.ru/employer/3927191","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3927191","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Если вы , в том числе, студент по направлению IT или начинающий специалист, окончивший вуз, Вы можете принять участие в отборе...","responsibility":"Комплексная оценка будет проводиться в форме собеседования. Стажировка по направлениям Java-backend и Mobile разработчик (flutter). Участие в непосредственной работе..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"96","name":"Программист, разработчик"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"probation","name":"Стажировка"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92405436","premium":false,"name":"Хозработник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2","name":"Санкт-Петербург","url":"https://api.hh.ru/areas/2"},"salary":{"from":65000,"to":70000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Санкт-Петербург","street":"Бармалеева улица","building":"11","lat":59.964485,"lng":30.306571,"description":null,"raw":"Санкт-Петербург, Бармалеева улица, 11","metro":null,"metro_stations":[],"id":"11151437"},"response_url":null,"sort_point_distance":null,"published_at":"2024-01-30T12:59:55+0300","created_at":"2024-01-30T12:59:55+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92405436","insider_interview":null,"url":"https://api.hh.ru/vacancies/92405436?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92405436","relations":[],"employer":{"id":"3474160","name":"Нордстрой","url":"https://api.hh.ru/employers/3474160","alternate_url":"https://hh.ru/employer/3474160","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3474160","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":null,"responsibility":"Cезонныe pаботы: убоpкa cнега, лиcтьев, кoшeниe травы, мытьe дoрoжек. Убoрка мусоpа. Прoтиpание пыли, уборка в бapбекю, в бecедке. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"32","name":"Дворник"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"87122346","premium":false,"name":"Продавец-консультант","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":70000,"to":110000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T11:00:11+0300","created_at":"2024-02-20T11:00:11+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=87122346","branding":{"type":"MAKEUP","tariff":null},"show_logo_in_search":true,"insider_interview":null,"url":"https://api.hh.ru/vacancies/87122346?host=hh.ru","alternate_url":"https://hh.ru/vacancy/87122346","relations":[],"employer":{"id":"2524051","name":"Магазины Ароматный Мир формата food & wine","url":"https://api.hh.ru/employers/2524051","alternate_url":"https://hh.ru/employer/2524051","logo_urls":{"90":"https://hhcdn.ru/employer-logo/3752459.png","240":"https://hhcdn.ru/employer-logo/3752460.png","original":"https://hhcdn.ru/employer-logo-original/827894.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2524051","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт работы не требуется, мы всему научим! Опыт работы в сетевых розничных магазинах приветствуется.","responsibility":"Консультирование покупателей по ассортименту в магазине. Работа на современной и простой кассе. Выкладка продукции, оформление торгового зала рекламными материалами. "},"contacts":null,"schedule":{"id":"shift","name":"Сменный график"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"97","name":"Продавец-консультант, продавец-кассир"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"77069438","premium":false,"name":"Менеджер по туризму","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"160","name":"Алматы","url":"https://api.hh.ru/areas/160"},"salary":{"from":180000,"to":200000,"currency":"KZT","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-02T05:38:18+0300","created_at":"2024-02-02T05:38:18+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=77069438","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/77069438?host=hh.ru","alternate_url":"https://hh.ru/vacancy/77069438","relations":[],"employer":{"id":"686727","name":"NurAi & Co","url":"https://api.hh.ru/employers/686727","alternate_url":"https://hh.ru/employer/686727","logo_urls":{"240":"https://hhcdn.ru/employer-logo/1107573.png","90":"https://hhcdn.ru/employer-logo/1107572.png","original":"https://hhcdn.ru/employer-logo-original/152128.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=686727","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"умение урегулировать форс-мажорные ситуации. - умение работать в системе Битрикс для ведения процесса бронирования. Требования: - опыт работы в туризме обязателен. - ","responsibility":"консультирование клиентов по туристическим продуктам в офисе и по телефону. - обработка входящих заявок и ведение диалога с туристами. - "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92210019","premium":false,"name":"Junior back-end developer","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":4000000,"to":8000000,"currency":"UZS","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T14:24:55+0300","created_at":"2024-01-25T14:24:55+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92210019","insider_interview":null,"url":"https://api.hh.ru/vacancies/92210019?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92210019","relations":[],"employer":{"id":"9035038","name":"OOO UZGPS","url":"https://api.hh.ru/employers/9035038","alternate_url":"https://hh.ru/employer/9035038","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9035038","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Высшее профильное образование. Свободное владение русским и узбекским языками. Java Core. Spring/Spring Boot. Знание ООП и структуры данных. ","responsibility":"Разрабатывать новые и поддерживать существующие продукты компании. Интегрировать сервисы и API. Написание микросервисов. Интеграции с внешними сервисами по REST, WebSocket. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"96","name":"Программист, разработчик"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93523045","premium":false,"name":"Менеджер по сопровождению закупок (контрольно-измерительное оборудование)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":90000,"to":null,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":null,"street":null,"building":null,"lat":null,"lng":null,"description":null,"raw":null,"metro":{"station_name":"Полежаевская","line_name":"Таганско-Краснопресненская","station_id":"7.114","line_id":"7","lat":55.777201,"lng":37.517895},"metro_stations":[{"station_name":"Полежаевская","line_name":"Таганско-Краснопресненская","station_id":"7.114","line_id":"7","lat":55.777201,"lng":37.517895},{"station_name":"Хорошево","line_name":"МЦК","station_id":"95.539","line_id":"95","lat":55.777222,"lng":37.507222},{"station_name":"Хорошевская","line_name":"Большая кольцевая линия","station_id":"97.601","line_id":"97","lat":55.77643,"lng":37.51981}],"id":"14977439"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T11:07:12+0300","created_at":"2024-02-20T11:07:12+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93523045","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93523045?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93523045","relations":[],"employer":{"id":"827187","name":"BY business group","url":"https://api.hh.ru/employers/827187","alternate_url":"https://hh.ru/employer/827187","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/942457.jpg","240":"https://hhcdn.ru/employer-logo/4210365.jpeg","90":"https://hhcdn.ru/employer-logo/4210364.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=827187","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Высшее или средне-специальное образование. Опыт работы на позиции менеджер по закупкам от 3 лет. Знание программы 1С (Управление...","responsibility":"Получать и обрабатывать заявки. Обеспечивать своевременные поставки ТМЦ Заказчикам (закупка оборудования КИПиА и комплектующих). Контролировать поставки и своевременное выполнение обязанностей..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"66","name":"Менеджер по закупкам"}],"accept_incomplete_resumes":true,"experience":{"id":"between3And6","name":"От 3 до 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93514566","premium":false,"name":"Водитель-помощник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":300000,"to":null,"currency":"KZT","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Астана","street":"улица Сауран","building":"3","lat":51.125657,"lng":71.421976,"description":null,"raw":"Астана, улица Сауран, 3","metro":null,"metro_stations":[],"id":"816768"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T09:52:02+0300","created_at":"2024-02-20T09:52:02+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93514566","insider_interview":null,"url":"https://api.hh.ru/vacancies/93514566?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93514566","relations":[],"employer":{"id":"2842834","name":"SNK CONSULT GROUP","url":"https://api.hh.ru/employers/2842834","alternate_url":"https://hh.ru/employer/2842834","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2842834","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Знание английского языка (B2). Хорошие знание города ПДД. Готовность к командировкам, в том числе за границу. Пунктуальность. ","responsibility":"Мелкосрочный ремонт авто."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"21","name":"Водитель"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93254580","premium":false,"name":"Машинист буровой установки RU-75","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"102","name":"Хабаровск","url":"https://api.hh.ru/areas/102"},"salary":{"from":228000,"to":228000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Хабаровск","street":"улица Истомина","building":"51А","lat":48.474997,"lng":135.058846,"description":null,"raw":"Хабаровск, улица Истомина, 51А","metro":null,"metro_stations":[],"id":"4898993"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-15T08:00:54+0300","created_at":"2024-02-15T08:00:54+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93254580","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93254580?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93254580","relations":[],"employer":{"id":"4987434","name":"Охотская Горно-Геологическая Компания","url":"https://api.hh.ru/employers/4987434","alternate_url":"https://hh.ru/employer/4987434","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/944456.jpg","240":"https://hhcdn.ru/employer-logo/4218361.jpeg","90":"https://hhcdn.ru/employer-logo/4218360.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=4987434","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Квалификационное удостоверение машиниста буровой установки 5 разряда. Опыт работы на буровой установки RU-75., LM-75. Проведение текущих аварийных и...","responsibility":"Бурение из буровых камер. Бурение согласно ГТН, умение подобрать породоразрушающий инструмент, монтаж на устье скважины."},"contacts":null,"schedule":{"id":"flyInFlyOut","name":"Вахтовый метод"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"63","name":"Машинист"}],"accept_incomplete_resumes":true,"experience":{"id":"between3And6","name":"От 3 до 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93545071","premium":false,"name":"Семейный водитель","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":120000,"to":120000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T14:19:36+0300","created_at":"2024-02-20T14:19:36+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93545071","insider_interview":null,"url":"https://api.hh.ru/vacancies/93545071?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93545071","relations":[],"employer":{"id":"2021156","name":"ТТО АМИК","url":"https://api.hh.ru/employers/2021156","alternate_url":"https://hh.ru/employer/2021156","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2021156","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"опыт работы профессиональным водителем от 10 лет, семейным водителем - от 5 лет. - наличие рекомендательных писем (обязательно). - спокойное,комфортное и безопасное...","responsibility":"работа в качестве семейного водителя. - подача автомобиля по указанному месту в обозначенное время. - планирование оптимального маршрута движения. - выполнение поручений профессионального..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"21","name":"Водитель"}],"accept_incomplete_resumes":true,"experience":{"id":"moreThan6","name":"Более 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93161709","premium":false,"name":"Менеджер по работе с клиентами (МЕРКАТОР)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"88","name":"Казань","url":"https://api.hh.ru/areas/88"},"salary":{"from":100000,"to":null,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Казань","street":"Приволжский район, жилой массив Отары, Дорожная улица","building":"1к10","lat":55.724135,"lng":49.098078,"description":null,"raw":"Казань, Приволжский район, жилой массив Отары, Дорожная улица, 1к10","metro":null,"metro_stations":[],"id":"15161689"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T17:06:04+0300","created_at":"2024-02-13T17:06:04+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93161709","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93161709?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93161709","relations":[],"employer":{"id":"1060821","name":"Рост Развитие Решение","url":"https://api.hh.ru/employers/1060821","alternate_url":"https://hh.ru/employer/1060821","logo_urls":{"90":"https://hhcdn.ru/employer-logo/874868.jpeg","240":"https://hhcdn.ru/employer-logo/874869.jpeg","original":"https://hhcdn.ru/employer-logo-original/85446.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1060821","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт в продажах или с клиентами. Грамотная речь. Активность. Коммуникабельность.","responsibility":"Работа с клиентами. Контроль остатков инструмента на складе. Работа с дебиторской задолженностью. Отчетность в установленной форме (1С, Битрикс 24)."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null}],"found":1438900,"pages":100,"page":0,"per_page":20,"clusters":null,"arguments":null,"fixes":null,"suggests":null,"alternate_url":"https://hh.ru/search/vacancy?enable_snippets=true"}
+[
+  {
+    "name": "QA engineer",
+    "url": "https://api.hh.ru/vacancies/119333798?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "RUTUBE",
+    "published_at": "2025-04-09T14:26:29+0300"
+  },
+  {
+    "name": "QA Engineer",
+    "url": "https://api.hh.ru/vacancies/119375076?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "СБЕР",
+    "published_at": "2025-04-10T10:16:00+0300"
+  },
+  {
+    "name": "QA engineer",
+    "url": "https://api.hh.ru/vacancies/119246134?host=hh.ru",
+    "salary": {
+      "from": 150000,
+      "to": 230000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Tevian (ООО Технологии видеоанализа)",
+    "published_at": "2025-04-10T16:35:09+0300"
+  },
+  {
+    "name": "Тестировщик Junior",
+    "url": "https://api.hh.ru/vacancies/119387401?host=hh.ru",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "ВижнЛабс (VisionLabs)",
+    "published_at": "2025-04-10T13:16:45+0300"
+  },
+  {
+    "name": "Senior QA Engineer",
+    "url": "https://api.hh.ru/vacancies/119316167?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Xello",
+    "published_at": "2025-04-09T10:13:28+0300"
+  },
+  {
+    "name": "Senior Frontend Developer",
+    "url": "https://api.hh.ru/vacancies/119377126?host=hh.ru",
+    "salary": {
+      "from": 5000,
+      "to": 10000,
+      "currency": "USD",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Podscribe",
+    "published_at": "2025-04-10T10:43:51+0300"
+  },
+  {
+    "name": "Manual QA Engineer (Middle)",
+    "url": "https://api.hh.ru/vacancies/119302701?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "ВСК, САО",
+    "published_at": "2025-04-08T19:56:01+0300"
+  },
+  {
+    "name": "QA engineer",
+    "url": "https://api.hh.ru/vacancies/119207853?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "HARTUNG",
+    "published_at": "2025-04-07T08:30:10+0300"
+  },
+  {
+    "name": "Тестировщик/QA",
+    "url": "https://api.hh.ru/vacancies/119191393?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "PRO32",
+    "published_at": "2025-04-05T18:57:44+0300"
+  },
+  {
+    "name": "QA engineer (Middle)",
+    "url": "https://api.hh.ru/vacancies/119191835?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Ростелеком - Центры обработки данных",
+    "published_at": "2025-04-05T21:17:33+0300"
+  },
+  {
+    "name": "Manual QA Engineer",
+    "url": "https://api.hh.ru/vacancies/119166217?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "AERODISK",
+    "published_at": "2025-04-10T13:11:38+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119375165?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Secunda",
+    "published_at": "2025-04-10T10:17:01+0300"
+  },
+  {
+    "name": "Middle/Middle+ QA Engineer",
+    "url": "https://api.hh.ru/vacancies/119215315?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Вайт Код",
+    "published_at": "2025-04-10T10:06:48+0300"
+  },
+  {
+    "name": "Инженер-тестировщик",
+    "url": "https://api.hh.ru/vacancies/119303182?host=hh.ru",
+    "salary": {
+      "from": 130000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "БИС",
+    "published_at": "2025-04-08T21:06:26+0300"
+  },
+  {
+    "name": "Middle QA-инженер",
+    "url": "https://api.hh.ru/vacancies/119188262?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Интеллектуальная видеоаналитика",
+    "published_at": "2025-04-08T11:08:18+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119323345?host=hh.ru",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Арканит",
+    "published_at": "2025-04-09T11:47:57+0300"
+  },
+  {
+    "name": "Python-разработчик (junior/middle)",
+    "url": "https://api.hh.ru/vacancies/119301299?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "АИКЦ Эксперт-аудитор",
+    "published_at": "2025-04-10T09:24:58+0300"
+  },
+  {
+    "name": "Junior QA инженер / Тестировщик ПО",
+    "url": "https://api.hh.ru/vacancies/119349267?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "НПК РВТС",
+    "published_at": "2025-04-09T17:27:07+0300"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://api.hh.ru/vacancies/119290712?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "НитСофт",
+    "published_at": "2025-04-08T15:08:40+0300"
+  },
+  {
+    "name": "Manual Frontend QA",
+    "url": "https://api.hh.ru/vacancies/119126777?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Marfatech",
+    "published_at": "2025-04-03T15:19:36+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119161831?host=hh.ru",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Аликсон",
+    "published_at": "2025-04-04T11:59:02+0300"
+  },
+  {
+    "name": "Инженер по тестированию / QA Engineer",
+    "url": "https://api.hh.ru/vacancies/118783745?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "DSSL",
+    "published_at": "2025-03-25T18:02:49+0300"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/vacancies/119312005?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Тис-Центр",
+    "published_at": "2025-04-09T09:13:31+0300"
+  },
+  {
+    "name": "Тестировщик QA",
+    "url": "https://api.hh.ru/vacancies/119105699?host=hh.ru",
+    "salary": {
+      "from": 130000,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "НИИ МАСШТАБ",
+    "published_at": "2025-04-08T12:07:44+0300"
+  },
+  {
+    "name": "Java-разработчик",
+    "url": "https://api.hh.ru/vacancies/119385152?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 205000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Data World",
+    "published_at": "2025-04-10T12:39:43+0300"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://api.hh.ru/vacancies/119121379?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Эйчар Рокет",
+    "published_at": "2025-04-03T14:00:20+0300"
+  },
+  {
+    "name": "Java-разработчик",
+    "url": "https://api.hh.ru/vacancies/119321149?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Мера-ТСП",
+    "published_at": "2025-04-09T11:16:23+0300"
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "url": "https://api.hh.ru/vacancies/119357102?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Микрокредитная Компания Небус",
+    "published_at": "2025-04-09T18:26:48+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119131965?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Soft Media Group",
+    "published_at": "2025-04-03T16:48:40+0300"
+  },
+  {
+    "name": "Java-разработчик Senior (Kotlin)",
+    "url": "https://api.hh.ru/vacancies/119319982?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Notamedia",
+    "published_at": "2025-04-09T11:02:24+0300"
+  },
+  {
+    "name": "Python-разработчик (удаленно)",
+    "url": "https://api.hh.ru/vacancies/119274666?host=hh.ru",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Ботхаб",
+    "published_at": "2025-04-08T11:10:58+0300"
+  },
+  {
+    "name": "Инженер по тестированию",
+    "url": "https://api.hh.ru/vacancies/119276887?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 160000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Центр инженерной физики МГУ",
+    "published_at": "2025-04-08T11:40:39+0300"
+  },
+  {
+    "name": "Backend Developer (Python)",
+    "url": "https://api.hh.ru/vacancies/119326258?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "XWAY",
+    "published_at": "2025-04-09T12:31:28+0300"
+  },
+  {
+    "name": "QA аналитик / тестировщик (финтех)",
+    "url": "https://api.hh.ru/vacancies/119173953?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Филиал The Visa Services в г. Москва",
+    "published_at": "2025-04-04T15:21:21+0300"
+  },
+  {
+    "name": "Middle Python developer",
+    "url": "https://api.hh.ru/vacancies/119140794?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Emphasoft",
+    "published_at": "2025-04-03T21:25:49+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119344230?host=hh.ru",
+    "salary": {
+      "from": 70000,
+      "to": 90000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Makeunion",
+    "published_at": "2025-04-09T16:56:47+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119324975?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Медиа Ком",
+    "published_at": "2025-04-09T12:10:34+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119350988?host=hh.ru",
+    "salary": {
+      "from": 120000,
+      "to": 130000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Генотек",
+    "published_at": "2025-04-09T17:40:24+0300"
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://api.hh.ru/vacancies/119399651?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Proficar",
+    "published_at": "2025-04-10T16:41:13+0300"
+  },
+  {
+    "name": "Программист (тестировщик)",
+    "url": "https://api.hh.ru/vacancies/119243817?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "ГрандТитул",
+    "published_at": "2025-04-10T16:02:11+0300"
+  },
+  {
+    "name": "Junior Python Developer",
+    "url": "https://api.hh.ru/vacancies/119211818?host=hh.ru",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Хайталент",
+    "published_at": "2025-04-07T09:28:48+0300"
+  },
+  {
+    "name": "Python-разработчик (Middle/Senior)",
+    "url": "https://api.hh.ru/vacancies/119286566?host=hh.ru",
+    "salary": {
+      "from": 150000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Аруснави Электроникс",
+    "published_at": "2025-04-08T14:04:20+0300"
+  },
+  {
+    "name": "Разработчик python",
+    "url": "https://api.hh.ru/vacancies/119269105?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Дивергент",
+    "published_at": "2025-04-08T10:05:52+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/118569814?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Copperside",
+    "published_at": "2025-03-19T17:13:45+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119292125?host=hh.ru",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Вуду Рокс",
+    "published_at": "2025-04-08T15:27:25+0300"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://api.hh.ru/vacancies/119123583?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Ростелеком",
+    "published_at": "2025-04-03T14:34:05+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119359969?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 200,
+      "currency": "USD",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Meridian Mind",
+    "published_at": "2025-04-09T21:29:21+0300"
+  },
+  {
+    "name": "Middle разработчик React (RuBackup)",
+    "url": "https://api.hh.ru/vacancies/119172098?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Группа компаний Астра",
+    "published_at": "2025-04-04T14:51:35+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119293385?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "ТМХ ТМ",
+    "published_at": "2025-04-08T15:49:44+0300"
+  },
+  {
+    "name": "Junior ML Engineer / Data scientist (Младший специалист МО)",
+    "url": "https://api.hh.ru/vacancies/119382231?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Инфосистемы Джет",
+    "published_at": "2025-04-10T11:55:31+0300"
+  },
+  {
+    "name": "Инженер-тестировщик (ручное тестирование)",
+    "url": "https://api.hh.ru/vacancies/119073090?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Цифровые решения, НПП",
+    "published_at": "2025-04-08T13:38:59+0300"
+  },
+  {
+    "name": "Java разработчик Middle+/senior",
+    "url": "https://api.hh.ru/vacancies/119371667?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Сджей Глобал",
+    "published_at": "2025-04-10T09:30:39+0300"
+  },
+  {
+    "name": "Middle Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119302455?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Рунити",
+    "published_at": "2025-04-08T19:23:38+0300"
+  },
+  {
+    "name": "Тестировщик / QA инженер",
+    "url": "https://api.hh.ru/vacancies/117161804?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 214000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "ВижнЛабс (VisionLabs)",
+    "published_at": "2025-03-18T18:40:57+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/119248320?host=hh.ru",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Берг",
+    "published_at": "2025-04-10T17:07:59+0300"
+  },
+  {
+    "name": "Инженер по тестированию ПО",
+    "url": "https://api.hh.ru/vacancies/117246175?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Сервисный центр Транстелематика",
+    "published_at": "2025-04-08T12:30:20+0300"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/vacancies/119325559?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "IBS",
+    "published_at": "2025-04-09T12:19:37+0300"
+  },
+  {
+    "name": "Backend разработчик Python, Middle",
+    "url": "https://api.hh.ru/vacancies/119329923?host=hh.ru",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Цезио",
+    "published_at": "2025-04-09T13:24:03+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119294522?host=hh.ru",
+    "salary": {
+      "from": 90000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Постал",
+    "published_at": "2025-04-08T16:09:13+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/119280669?host=hh.ru",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Mycego",
+    "published_at": "2025-04-08T12:32:49+0300"
+  },
+  {
+    "name": "Python разработчик Middle/Senior",
+    "url": "https://api.hh.ru/vacancies/119386211?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "IT-Implant",
+    "published_at": "2025-04-10T12:55:28+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119183960?host=hh.ru",
+    "salary": {
+      "from": 65000,
+      "to": 110000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "GPT-Expert",
+    "published_at": "2025-04-04T23:42:17+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119322945?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Бриф",
+    "published_at": "2025-04-09T11:41:56+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/119165168?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "НОРСИ-ТРАНС",
+    "published_at": "2025-04-10T12:54:29+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/119337028?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Системы планирования производства и логистики",
+    "published_at": "2025-04-09T15:10:44+0300"
+  },
+  {
+    "name": "Java-разработчик (Change Data Capture)",
+    "url": "https://api.hh.ru/vacancies/119302825?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "1001 LABS",
+    "published_at": "2025-04-08T20:09:46+0300"
+  },
+  {
+    "name": "Java-разработчик (Инвестиционный бизнес)",
+    "url": "https://api.hh.ru/vacancies/118973328?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "РСХБ-Интех",
+    "published_at": "2025-03-31T13:20:39+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/119250582?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Ниармедик Ваш Доктор Рядом",
+    "published_at": "2025-04-07T17:56:33+0300"
+  },
+  {
+    "name": "Middle Python разработчик",
+    "url": "https://api.hh.ru/vacancies/118857395?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "NGENIX",
+    "published_at": "2025-04-08T12:27:59+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/118992526?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Интермобилити",
+    "published_at": "2025-03-31T21:46:47+0300"
+  },
+  {
+    "name": "Python-разработчик (Django)",
+    "url": "https://api.hh.ru/vacancies/119325762?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Медиалогия",
+    "published_at": "2025-04-09T12:22:45+0300"
+  },
+  {
+    "name": "Системный аналитик (РЕД АДМ)",
+    "url": "https://api.hh.ru/vacancies/118899930?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Ред Софт",
+    "published_at": "2025-03-28T12:54:33+0300"
+  },
+  {
+    "name": "Junior Python Developer",
+    "url": "https://api.hh.ru/vacancies/119333320?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "ГК «МТ-Интеграция»",
+    "published_at": "2025-04-09T14:18:57+0300"
+  },
+  {
+    "name": "Специалист по IT",
+    "url": "https://api.hh.ru/vacancies/118279002?host=hh.ru",
+    "salary": {
+      "from": 300000,
+      "to": 2500000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Торгпром",
+    "published_at": "2025-03-13T09:24:33+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119251389?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Smart Design",
+    "published_at": "2025-04-07T18:18:48+0300"
+  },
+  {
+    "name": "Начинающий разработчик C/C++",
+    "url": "https://api.hh.ru/vacancies/118349674?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 111600,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Алгоритм С",
+    "published_at": "2025-03-14T15:04:06+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119321017?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "МЭК Энергоэффективные технологии",
+    "published_at": "2025-04-09T11:14:26+0300"
+  },
+  {
+    "name": "Backend разработчик (Junior)",
+    "url": "https://api.hh.ru/vacancies/119161743?host=hh.ru",
+    "salary": {
+      "from": 40000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Самоделкина Вероника Сергеевна",
+    "published_at": "2025-04-04T11:57:21+0300"
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://api.hh.ru/vacancies/119298576?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Верме",
+    "published_at": "2025-04-08T17:06:29+0300"
+  },
+  {
+    "name": "Middle Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119222965?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "МТС",
+    "published_at": "2025-04-07T11:39:55+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119329037?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "ПРОТЕЙ ТЛ",
+    "published_at": "2025-04-09T13:12:05+0300"
+  },
+  {
+    "name": "Frontend разработчик (Vue)",
+    "url": "https://api.hh.ru/vacancies/119289336?host=hh.ru",
+    "salary": {
+      "from": 230000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Софтмус",
+    "published_at": "2025-04-08T14:46:49+0300"
+  },
+  {
+    "name": "Python backend developer",
+    "url": "https://api.hh.ru/vacancies/119242442?host=hh.ru",
+    "salary": {
+      "from": 280000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Ритейл-Процессинг",
+    "published_at": "2025-04-10T15:41:23+0300"
+  },
+  {
+    "name": "Frontend-разработчик",
+    "url": "https://api.hh.ru/vacancies/118904778?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Код Безопасности",
+    "published_at": "2025-03-28T14:22:20+0300"
+  },
+  {
+    "name": "Senior Python developer",
+    "url": "https://api.hh.ru/vacancies/119250634?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "АЙТИБАЛТИК",
+    "published_at": "2025-04-07T17:58:08+0300"
+  },
+  {
+    "name": "Программиста Pyton разработчик",
+    "url": "https://api.hh.ru/vacancies/119251506?host=hh.ru",
+    "salary": {
+      "from": 40000,
+      "to": 70000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Скоробогатов Данил Андреевич",
+    "published_at": "2025-04-07T18:24:41+0300"
+  },
+  {
+    "name": "Системный аналитик/Бизнес-аналитик",
+    "url": "https://api.hh.ru/vacancies/114811435?host=hh.ru",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "АПТЕКА ВАША № 1",
+    "published_at": "2025-03-17T14:21:12+0300"
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://api.hh.ru/vacancies/119163497?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "X5 Tech",
+    "published_at": "2025-04-04T12:22:19+0300"
+  },
+  {
+    "name": "Python программист/разработчик",
+    "url": "https://api.hh.ru/vacancies/119218574?host=hh.ru",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Hi, Rockits!",
+    "published_at": "2025-04-07T10:45:57+0300"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://api.hh.ru/vacancies/118625651?host=hh.ru",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "СмартБрик",
+    "published_at": "2025-03-20T19:02:38+0300"
+  },
+  {
+    "name": "Бизнес-аналитик",
+    "url": "https://api.hh.ru/vacancies/118232144?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Т-Банк",
+    "published_at": "2025-03-12T10:36:48+0300"
+  },
+  {
+    "name": "Младший программист",
+    "url": "https://api.hh.ru/vacancies/119321005?host=hh.ru",
+    "salary": {
+      "from": 35000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Динамические системы",
+    "published_at": "2025-04-09T11:14:17+0300"
+  },
+  {
+    "name": "Тестировщик ПО",
+    "url": "https://api.hh.ru/vacancies/119012288?host=hh.ru",
+    "salary": {
+      "from": 140000,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Inline Telecom Solutions",
+    "published_at": "2025-04-01T11:09:53+0300"
+  },
+  {
+    "name": "ML Engineer/Data Scientist",
+    "url": "https://api.hh.ru/vacancies/119393658?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Oil and Gas Production Tools",
+    "published_at": "2025-04-10T14:57:41+0300"
+  },
+  {
+    "name": "Middle Python (django) разработчик",
+    "url": "https://api.hh.ru/vacancies/119287975?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Аптрейд",
+    "published_at": "2025-04-08T14:23:59+0300"
+  },
+  {
+    "name": "Тестировщик в области гражданской авиации",
+    "url": "https://api.hh.ru/vacancies/118913389?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "АФЛТ-Системс",
+    "published_at": "2025-03-28T16:56:35+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/118591608?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "MANGO FZCO",
+    "published_at": "2025-04-10T10:58:51+0300"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://api.hh.ru/vacancies/119141241?host=hh.ru",
+    "salary": {
+      "from": 75000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "КМВ Тур",
+    "published_at": "2025-04-03T23:54:51+0300"
+  },
+  {
+    "name": "Junior Технический специалист | Frontend разработчик | Верстальщик | Программист",
+    "url": "https://api.hh.ru/vacancies/119309189?host=hh.ru",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Бонакер Александр Александрович",
+    "published_at": "2025-04-09T08:28:22+0300"
+  },
+  {
+    "name": "Python Developer (Middle/Middle+)",
+    "url": "https://api.hh.ru/vacancies/119156284?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Osla",
+    "published_at": "2025-04-10T10:39:22+0300"
+  },
+  {
+    "name": "Junior Python-developer (Python разработчик)",
+    "url": "https://api.hh.ru/vacancies/119090704?host=hh.ru",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Workmate",
+    "published_at": "2025-04-02T20:45:23+0300"
+  },
+  {
+    "name": "IT - Project manager",
+    "url": "https://api.hh.ru/vacancies/118822397?host=hh.ru",
+    "salary": {
+      "from": 130000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Сайбертех",
+    "published_at": "2025-03-26T15:03:23+0300"
+  },
+  {
+    "name": "Senior Frontend разработчик (React)",
+    "url": "https://api.hh.ru/vacancies/119404360?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "КРОК",
+    "published_at": "2025-04-10T19:36:51+0300"
+  },
+  {
+    "name": "Senior Backend Engineer",
+    "url": "https://api.hh.ru/vacancies/119377366?host=hh.ru",
+    "salary": {
+      "from": 6000,
+      "to": 12000,
+      "currency": "USD",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Podscribe",
+    "published_at": "2025-04-10T10:47:21+0300"
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://api.hh.ru/vacancies/119425985?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Гудэкс",
+    "published_at": "2025-04-11T12:02:40+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119451331?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Staffberry",
+    "published_at": "2025-04-12T09:02:27+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119433071?host=hh.ru",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Параллельные решения",
+    "published_at": "2025-04-11T14:05:48+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119427499?host=hh.ru",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "ТЕХНЕЗИС",
+    "published_at": "2025-04-11T12:26:45+0300"
+  },
+  {
+    "name": "Senior Frontend разработчик (React)",
+    "url": "https://api.hh.ru/vacancies/119452243?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "КРОК",
+    "published_at": "2025-04-12T11:37:05+0300"
+  },
+  {
+    "name": "Junior+/Middle Python Developer",
+    "url": "https://api.hh.ru/vacancies/119404193?host=hh.ru",
+    "salary": {
+      "from": 800,
+      "to": 1400,
+      "currency": "EUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "AbeloHost B.V.",
+    "published_at": "2025-04-10T19:24:29+0300"
+  },
+  {
+    "name": "Программист (Junior)",
+    "url": "https://api.hh.ru/vacancies/119399362?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "АЛТ",
+    "published_at": "2025-04-10T16:34:17+0300"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/vacancies/119445116?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Московский метрополитен",
+    "published_at": "2025-04-11T17:51:08+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119406812?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Армада, группа компаний",
+    "published_at": "2025-04-11T05:34:43+0300"
+  },
+  {
+    "name": "Тестировщик (Junior)",
+    "url": "https://api.hh.ru/vacancies/119443709?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "КСОР",
+    "published_at": "2025-04-11T17:12:24+0300"
+  },
+  {
+    "name": "Middle QA Engineer",
+    "url": "https://api.hh.ru/vacancies/119268962?host=hh.ru",
+    "salary": {
+      "from": 80000,
+      "to": 90000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "KVINT",
+    "published_at": "2025-04-11T10:04:19+0300"
+  },
+  {
+    "name": "Разработчик SQL/Python",
+    "url": "https://api.hh.ru/vacancies/119401020?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Автоматизация Розничных Технологий",
+    "published_at": "2025-04-10T17:13:54+0300"
+  },
+  {
+    "name": "Python Middle Разработчик",
+    "url": "https://api.hh.ru/vacancies/119446174?host=hh.ru",
+    "salary": {
+      "from": 80000,
+      "to": 130000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "КУЗНЕЦОВ",
+    "published_at": "2025-04-11T18:45:41+0300"
+  },
+  {
+    "name": "Инженер BIM",
+    "url": "https://api.hh.ru/vacancies/119402336?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "МодульМакс",
+    "published_at": "2025-04-10T17:44:43+0300"
+  },
+  {
+    "name": "Senior Manual QA",
+    "url": "https://api.hh.ru/vacancies/119432661?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Дартс рекрутинг сервисез",
+    "published_at": "2025-04-11T13:57:49+0300"
+  },
+  {
+    "name": "Программист разработчик прикладного ПО",
+    "url": "https://api.hh.ru/vacancies/116527652?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Арман",
+    "published_at": "2025-04-11T16:25:43+0300"
+  },
+  {
+    "name": "Продуктовый аналитик в команду ж/д",
+    "url": "https://api.hh.ru/vacancies/118982096?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Туту",
+    "published_at": "2025-04-01T14:36:22+0300"
+  },
+  {
+    "name": "Python-Django разработчик / Архитектор (Middle)",
+    "url": "https://api.hh.ru/vacancies/119439299?host=hh.ru",
+    "salary": {
+      "from": 134600,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "description": "",
+    "employer": "Иторум",
+    "published_at": "2025-04-11T15:43:58+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119406813?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Армада, группа компаний",
+    "published_at": "2025-04-11T05:34:43+0300"
+  },
+  {
+    "name": "Golang разработчик",
+    "url": "https://api.hh.ru/vacancies/119425328?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Иви",
+    "published_at": "2025-04-11T11:50:48+0300"
+  },
+  {
+    "name": "QA инженер (DBaaS)",
+    "url": "https://api.hh.ru/vacancies/119425473?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Postgres Professional",
+    "published_at": "2025-04-11T11:53:48+0300"
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://api.hh.ru/vacancies/119419879?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "НТЦ Вулкан",
+    "published_at": "2025-04-11T10:24:20+0300"
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/119438293?host=hh.ru",
+    "salary": {
+      "from": 230000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "РобоСиВи",
+    "published_at": "2025-04-11T15:28:01+0300"
+  },
+  {
+    "name": "Младший backend-разработчик",
+    "url": "https://api.hh.ru/vacancies/118348961?host=hh.ru",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "SW Development",
+    "published_at": "2025-03-14T14:49:36+0300"
+  },
+  {
+    "name": "QA Engineer",
+    "url": "https://api.hh.ru/vacancies/118991728?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "МТ-ЛАБ",
+    "published_at": "2025-03-31T19:46:01+0300"
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://api.hh.ru/vacancies/119421459?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Научно-производственное предприятие ПРИМА",
+    "published_at": "2025-04-11T10:50:15+0300"
+  },
+  {
+    "name": "Junior Python Backend Developer",
+    "url": "https://api.hh.ru/vacancies/119434607?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "Эвокарго",
+    "published_at": "2025-04-11T14:27:21+0300"
+  },
+  {
+    "name": "Python developer (Senior)",
+    "url": "https://api.hh.ru/vacancies/119239019?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 450000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "AYA Group",
+    "published_at": "2025-04-07T14:52:40+0300"
+  },
+  {
+    "name": "Manual QA Engineer",
+    "url": "https://api.hh.ru/vacancies/109239766?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "НЭК ТЕХ",
+    "published_at": "2025-04-11T16:28:46+0300"
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://api.hh.ru/vacancies/119430381?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "NGENIX",
+    "published_at": "2025-04-11T13:16:20+0300"
+  },
+  {
+    "name": "JS-разработчик",
+    "url": "https://api.hh.ru/vacancies/119452141?host=hh.ru",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "НПК Интеллектуальные технологии",
+    "published_at": "2025-04-12T11:16:20+0300"
+  },
+  {
+    "name": "Математик-программист (физик, разработка математических моделей и решателей)",
+    "url": "https://api.hh.ru/vacancies/118670045?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "ЛАДУГА",
+    "published_at": "2025-03-22T15:50:02+0300"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/vacancies/119454657?host=hh.ru",
+    "salary": {
+      "from": 50000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "DJ_Academy",
+    "published_at": "2025-04-12T21:19:21+0300"
+  },
+  {
+    "name": "Middle Python разработчик",
+    "url": "https://api.hh.ru/vacancies/119454474?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Мыздесь",
+    "published_at": "2025-04-12T19:44:01+0300"
+  },
+  {
+    "name": "Руководитель проектов",
+    "url": "https://api.hh.ru/vacancies/118663212?host=hh.ru",
+    "salary": {
+      "from": 250000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "Кузьминова Алеся Игоревна",
+    "published_at": "2025-03-21T18:01:02+0300"
+  },
+  {
+    "name": "Стажер аналитик / дата инженер (SQL / Python)",
+    "url": "https://api.hh.ru/vacancies/118567600?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "КОРУС Консалтинг",
+    "published_at": "2025-04-03T20:07:51+0300"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/vacancies/119031392?host=hh.ru",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "description": "",
+    "employer": "РозумСофт",
+    "published_at": "2025-04-11T13:39:34+0300"
+  },
+  {
+    "name": "Стажер в Казначейство",
+    "url": "https://api.hh.ru/vacancies/117405335?host=hh.ru",
+    "salary": {
+      "from": null,
+      "to": null,
+      "currency": null
+    },
+    "description": "",
+    "employer": "СБЕР",
+    "published_at": "2025-03-19T11:07:00+0300"
+  }
+]
