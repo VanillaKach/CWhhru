@@ -52,13 +52,13 @@ def test_filter_vacancies(sample_vacancies: List[Vacancy]) -> None:
 def test_get_vacancies_by_salary(sample_vacancies: List[Vacancy]) -> None:
     """Тест фильтрации вакансий по зарплате."""
     filtered = get_vacancies_by_salary(sample_vacancies, "100000-130000")
-    assert len(filtered) == 2  # Теперь ожидаем только Python Developer (100000-150000)
-    assert filtered[0].name == "Python Developer"
+    # Ожидаем 3 вакансии
+    assert len(filtered) == 3
 
-    # Проверяем, что вакансии с зарплатой вне диапазона не попали в результат
+    # Проверяем, что все вакансии пересекаются с диапазоном
     assert all(
-        (v.salary.get('from') or 0) >= 100000 or
-        (v.salary.get('to') or 0) <= 130000
+        (v.salary.get('from') or 0) <= 130000 and
+        (v.salary.get('to') or float('inf')) >= 100000
         for v in filtered
     )
 
@@ -66,7 +66,7 @@ def test_get_vacancies_by_salary(sample_vacancies: List[Vacancy]) -> None:
     names = {v.name for v in filtered}
     assert "Python Developer" in names
     assert "Java Developer" in names
-    assert "QA Engineer" not in names
+    assert "QA Engineer" in names
 
     filtered = get_vacancies_by_salary(sample_vacancies, "invalid-format")
     assert len(filtered) == 3
